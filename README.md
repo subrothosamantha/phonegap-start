@@ -11,7 +11,7 @@ If you are looking for help with PhoneGap please visit the
 
 ### Desktop
 
-In your browser, open the file:
+In your browser, open the file: file
 
     /www/index.html
 
