@@ -1,6 +1,6 @@
 # Hello World PhoneGap Application [![bitHound Score][bithound-img]][bithound-url]
 
-> A Hello World application built with PhoneGap
+> This is my own application
 
 ## Getting Help with PhoneGap
 
